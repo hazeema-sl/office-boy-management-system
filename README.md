@@ -9,4 +9,8 @@ I do complete this project using
   <li>Bootstrap</li>
 </ul>
 
-<a href="http://oms.infy.uk/" target="_blank">Live Project</a>
+<h1>About Hosting</h1>
+I did used <a href="https://www.infinityfree.com/">InfinityFree</a> for hosting they provide User-friendly and Free platform for Biginners to learn and practice hosting.
+<br><br>
+Try Live Preview from here
+<a href="http://oms.infy.uk/" target="_blank">Live Preview</a>
