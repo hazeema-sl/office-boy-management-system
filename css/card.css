@@ -1,0 +1,28 @@
+.single-card {
+  text-align: center;
+  margin: 0%;
+  padding: 0%;
+  background-color: #0d3b66;
+  margin: 5px;
+  color: #faf0ca;
+  border-radius: 12px;
+}
+
+.card-image {
+  border-radius: 12px;
+}
+.card-name {
+  font-size: clamp(16px, 20px, 2vw);
+  text-align: left;
+  margin-left: 20px;
+}
+.price {
+  font-size: clamp(12px, 16px, 2vw);
+  text-align: end;
+  margin-right: 10px;
+  margin-bottom: 0%;
+}
+.quantity {
+  text-align: left;
+  margin-left: 20px;
+}

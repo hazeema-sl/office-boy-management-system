@@ -1,0 +1,14 @@
+.menu {
+  padding: 25vh 10vw;
+}
+.single {
+  text-align: center;
+  background: var(--color-1);
+  color: var(--text-color);
+  text-decoration: none;
+  border-radius: 12px;
+  margin: 20px;
+}
+.single:hover {
+  background-color: rgb(99, 99, 99);
+}
